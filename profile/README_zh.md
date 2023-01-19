@@ -6,8 +6,8 @@
 
 ## Tenet
 
-Powering the globe, opening the world.
+助力全球,开源世界.
 
 ## Join
 
-This is a virtual university. You can join in the following ways.
+这是一个虚拟大学. 加入我们,您需要通过一些必须的步骤.
